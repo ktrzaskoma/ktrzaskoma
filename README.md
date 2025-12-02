@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-My Leetcode profile is here -> https://leetcode.com/u/ktrzaskoma/
 <!--
 **ktrzaskoma/ktrzaskoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
